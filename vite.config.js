@@ -59,7 +59,7 @@ export default ({ mode }) =>
       },
     },
     server: {
-      port: 6598,
+      port: 8010,
     },
     build: {
       minify: "terser",
